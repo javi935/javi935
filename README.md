@@ -1,4 +1,4 @@
-¡Hola! 👋 Soy Javier <br>
+¡Hola! 👋 Soy Javier <br> <hr>
 🔭 estudiando ing. informatica |💬 La historia solo recuerda a los valientes
 <!--
 **javi935/javi935** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
