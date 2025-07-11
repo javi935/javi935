@@ -1,5 +1,6 @@
 ¡Hola! 👋 Soy Javier <br> <hr>
-🔭 estudiando ing. informatica |💬 La historia solo recuerda a los valientes
+🔭 estudiando ing. informatica |💬 La historia solo recuerda a los valientes <br> <hr>
+Lengajues de programación: ✨java
 <!--
 **javi935/javi935** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
